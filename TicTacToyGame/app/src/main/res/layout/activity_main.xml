@@ -16,7 +16,7 @@
         <Button
             android:id="@+id/bu1"
             android:layout_width="50pt"
-            android:layout_height="50pt"
+            android:layout_height="51pt"
             android:layout_marginRight="3pt"
             android:gravity="center"
             android:onClick="BuClick"
